@@ -1,4 +1,6 @@
 # HelpEscape
+An academic project in AI course where different search algorithms are used to formulate a plan that an agent can follow to escape a maze.
+
 Using search to formulate a plan that R2-D2 can follow to escape. An optimal plan is one with as few steps as possible. The following search algorithms is implemented and each will be used to help R2-D2:<br/>
 a) Breadth-first search.<br/>
 b) Depth-first search.<br/>
